@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.jupyter/
+.DS_Store
+data/
+yelp_academic_dataset_*.json
+*.tar
+*.tar.gz
+*.zip
